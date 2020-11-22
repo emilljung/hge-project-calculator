@@ -1,0 +1,17 @@
+﻿  Troubleshoot.cpp
+  ToScreen.cpp
+c:\users\emil\onedrive\skola\programmering, algoritmer och datastrukturer\projekt ii miniräknare hge\projekt ii miniräknare hge\toscreen.h(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  TextInput.cpp
+  MainObject.cpp
+c:\users\emil\onedrive\skola\programmering, algoritmer och datastrukturer\projekt ii miniräknare hge\projekt ii miniräknare hge\toscreen.h(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+c:\users\emil\onedrive\skola\programmering, algoritmer och datastrukturer\projekt ii miniräknare hge\projekt ii miniräknare hge\toscreen.h(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  GuiButton.cpp
+c:\users\emil\onedrive\skola\programmering, algoritmer och datastrukturer\projekt ii miniräknare hge\projekt ii miniräknare hge\toscreen.h(12): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Complex.cpp
+  Calculator.cpp
+  Generating Code...
+  LINK : C:\Users\Emil\OneDrive\Skola\Programmering, algoritmer och datastrukturer\Projekt II Miniräknare HGE\workingDir/Projekt II Miniräknare HGEDebug.exe not found or not built by the last incremental link; performing full link
+wrapperD.lib(GameObject.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'wrapperD.lib(GameObject.obj)' or at 'C:\Users\Emil\OneDrive\Skola\Programmering, algoritmer och datastrukturer\Projekt II Miniräknare HGE\workingDir\vc100.pdb'; linking object as if no debug info
+wrapperD.lib(hgeWrapper.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'wrapperD.lib(hgeWrapper.obj)' or at 'C:\Users\Emil\OneDrive\Skola\Programmering, algoritmer och datastrukturer\Projekt II Miniräknare HGE\workingDir\vc100.pdb'; linking object as if no debug info
+  Projekt II Miniräknare HGE.vcxproj -> C:\Users\Emil\OneDrive\Skola\Programmering, algoritmer och datastrukturer\Projekt II Miniräknare HGE\workingDir/Projekt II Miniräknare HGEDebug.exe

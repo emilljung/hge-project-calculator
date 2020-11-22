@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="HGE">
+      <UniqueIdentifier>{9de3cf35-89f6-4059-b055-ea06d852f715}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HGE\cpp">
+      <UniqueIdentifier>{1e39ffb8-4465-45eb-bfc8-673845acf6fe}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HGE\h">
+      <UniqueIdentifier>{5fae1911-ebe4-41eb-98ca-55cd555de334}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Complex">
+      <UniqueIdentifier>{bb2d82ec-daae-4e83-bc8d-8354e3bb59d2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Complex\cpp">
+      <UniqueIdentifier>{0f433c8c-77a7-46d6-8829-f1182cbd10a0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Complex\h">
+      <UniqueIdentifier>{a3c1d3df-7d05-4cb3-9178-def07689dd20}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GuiButton.cpp">
+      <Filter>HGE\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="MainObject.cpp">
+      <Filter>HGE\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="TextInput.cpp">
+      <Filter>HGE\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ToScreen.cpp">
+      <Filter>HGE\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Calculator.cpp">
+      <Filter>Complex\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Complex.cpp">
+      <Filter>Complex\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Troubleshoot.cpp">
+      <Filter>Complex\cpp</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="GuiButton.h">
+      <Filter>HGE\h</Filter>
+    </ClInclude>
+    <ClInclude Include="MainObject.h">
+      <Filter>HGE\h</Filter>
+    </ClInclude>
+    <ClInclude Include="TextInput.h">
+      <Filter>HGE\h</Filter>
+    </ClInclude>
+    <ClInclude Include="ToScreen.h">
+      <Filter>HGE\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Calculator.h">
+      <Filter>Complex\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Complex.h">
+      <Filter>Complex\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Stack.h">
+      <Filter>Complex\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Troubleshoot.h">
+      <Filter>Complex\h</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
